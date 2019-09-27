@@ -1,0 +1,3 @@
+something inside bob.txt file
+other line
+line four
